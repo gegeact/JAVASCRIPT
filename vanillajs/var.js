@@ -1,3 +1,5 @@
-const iceCream = null;
+const sayaSukaEsKrim = true;
+const sayaSukaHamburger = false;
 
-console.log(typeof iceCream);
+if (sayaSukaEsKrim || sayaSukaHamburger)
+    console.log(saya suka eskrim dan hamburger);
